@@ -13,7 +13,6 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ・🎯 Looking forward to collaborating on innovative and beginner-friendly projects, especially in the Discord ecosystem and Java development
 ・📫 How to reach me: Discord🔗
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r6fp9rBpDN)
 
 ## Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,4 +32,4 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshikoooo&theme=algolia&layout=compact)
 
 ## 🌟Featured Repository
-[![discord-moderation-bot-](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=discord-moderation-bot-&theme=algolia)](https://github.com/Hoshikoooo/discord-moderation-bot)
+[![discord-moderation-bot-](https://github.com/hazelhop/Loan-calculator-app)
