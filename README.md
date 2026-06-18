@@ -28,8 +28,8 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshikoooo&theme=algolia&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazelhop&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazelhop&theme=algolia&layout=compact)
 
 ## 🌟Featured Repository
-[![discord-moderation-bot-](https://github.com/hazelhop/Loan-calculator-app)
+[![Loan-cakculator-app](https://github.com/hazelhop/Loan-calculator-app)
